@@ -1,4 +1,1 @@
-while read line
-do
-  echo $line | cut -c 3
-done
+cut -c 3
