@@ -1,2 +1,2 @@
 # HackerRank-Shell
-My solutions of Linux shell practice on HackerRank.
+Linux Shell practice on HackerRank.
